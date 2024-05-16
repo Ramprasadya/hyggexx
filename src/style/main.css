@@ -8,4 +8,5 @@
 
   .maza{
     -webkit-text-stroke: transparent;
+    -webkit-animation-name: none;
   }
